@@ -4,3 +4,5 @@
    - demo2 手写数字识别
 3. [决策树及其 demo](https://github.com/sudrizzz/MachineLearning/blob/main/02_DecisionTree/trees.ipynb)
    - 使用决策树预测隐形眼镜类型
+
+![](https://visitor-badge.glitch.me/badge?page_id=sudrizzz.MachineLearning)
